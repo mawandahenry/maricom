@@ -1,0 +1,208 @@
+/*
+A Mawanda Henry Creation
+contact@ +256752186907
+email@mawanda111@gmail.com
+
+*/
+@media screen and (max-width: 992px){
+  .fort{
+    height: 200px;
+  }
+}
+@keyframes anime {
+  from {
+    opacity: 0;
+  },
+  to{
+    opacity: 1;
+  }
+}
+body{
+  background-image: url('../images/bg.png');
+}
+.para {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+.para2 {
+  poition: absolute;
+  margin-top: 40px;
+}
+.foot{
+
+  color: white;
+
+}
+.tip {
+  padding-top: 10px;
+    background-image: url('../images/screens/fin.jpg');
+}
+.my_list{
+  list-style: none;
+}
+.table_1 {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+
+	list-style: none;
+	padding-top: 20px;
+
+  float: right;
+	}
+	ul#horizontal-list li {
+		display: inline;
+    padding: 10px;
+    margin-right: 5px;
+    color: white;
+	}
+  ul#horizontal-list li a{
+
+    color: white;
+
+	}
+  ul#horizontal-list li a:hover{
+
+    color: pink;
+
+  }
+  a:hover{
+    text-decoration: none;
+
+  }
+  @media screen (max-width: 360px){
+    ul#horizontal-list {
+
+
+
+    	}
+  }
+  ul.yeps li{
+    list-style: none;
+    padding-top: 3px;
+
+  }
+  .yeps{
+
+    margin-top: 10px;
+  }
+
+  .cup{
+    border-bottom:10px solid green !important;
+
+  }
+  footer{
+    height: 150px;
+  }
+  .fixo{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #B8860B;
+  z-index:1020;
+  height: 50px;
+  }
+  .fixo:a{
+    background-color: white;
+  }
+  .haras{
+    border-bottom: box-shadow()
+  }
+  .vini{
+    margin-left: 40%;
+  }
+  .classic{
+    background-color: black;
+  }
+  nav{
+     box-shadow: 0px 5px 2px 0px gray;
+  }
+  .imgs{
+    width: 140px;
+    margin-left: 20%;
+  }
+  .tx:hover{
+    background-color: #B8860B;
+    border: 1px solid #B8860B;
+  }
+.longer{
+-webkit-transition: 3s;
+-moz-transition: 3s;
+transition: 3s;
+}
+
+.bodi{
+  animation-name: anime;
+  animation-duration: 4s;
+
+}
+ul.xterm{
+  list-style: none;
+  float: left;
+  padding: 20px;
+}
+ul.xterm li {
+  display: inline;
+  color: white;
+  padding: 20px;
+
+
+}
+.close {font-size: 20px;color: #333;float: right;}
+ul.xterm li a{
+
+  color: white;
+
+
+}
+.done { display: none }
+ul.my_list li a {
+  color: white;
+}
+.x{
+  transform: rotate(90deg);
+}
+.hovie:hover {
+  transition: 1s ease-in-out;
+  opacity: 0.5;
+  transform: scale(1.1);
+
+}
+.hovie{
+  width: 300px !important;
+}
+.linger span {
+-webkit-transition: 1s;
+-moz-transition: 1s;
+transition: 1s;
+}
+.tes{
+  border-right: 5px solid green;
+}
+.yepso{
+
+  margin-top: 10px;
+  font-size: 15px;
+}
+.byoo{
+    background-image: url('../images/screens/crup.jpg');
+}
+.wreck{
+    background-image: url('../images/screens/soko.jpg');
+
+}
+.wreckd{
+    background-image: url('../images/screens/replace.jpg');
+
+}
+.wrecko{
+    background-image: url('../images/network/compnet/general/back.jpg');
+
+}
+.poty{
+    background-image: url('../images/screens/sup.jpg');
+}
